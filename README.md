@@ -49,5 +49,4 @@ Este repositório foi organizado para disponibilizar:
 - **Registros bibliográficos:** arquivo BibTeX exportado da ACM Digital Library.
 - **Planilhas de triagem:** decisões de seleção e exclusão e suas justificativas.
 - **Matriz de extração:** classificação dos estudos, problemas e técnicas de identificação.
-- **Protocolo de pesquisa:** estratégia de busca, critérios de elegibilidade e procedimentos metodológicos.
 - **Registro do uso de IA:** documentação do apoio de ferramentas de Inteligência Artificial durante a pesquisa.
